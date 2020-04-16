@@ -1,2 +1,0 @@
-# neopredelenni.github.io
-saitlaba
