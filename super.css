@@ -216,7 +216,20 @@ a:nth-child(5) {
 
 }			
 
- /*  Страница про CSS xD  */
+ /*  Кнопка CSS xD  */
+
+ .baton {
+
+height: 100px;
+width: 200px;
+text-align: center;
+margin-left: 500px;
+margin-top: 200px;
+color: red;
+font-size: 20px;
+font-family: cursive;
+
+}
 
 
 			
